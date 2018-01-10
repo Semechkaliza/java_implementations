@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JWD_task3.4:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="my-app-1.war">
+      <element id="artifact" artifact-name="JWD_task3.4:war exploded" />
+    </root>
+  </artifact>
+</component>
